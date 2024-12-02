@@ -1,0 +1,20 @@
+diff 1.txt 2.txt > out.txt
+cat output.txt
+cat out.txt
+sort < 1.txt
+sort < 1.txt > sorted.txt
+cat sorted.txt
+more 2.txt | wc
+ls | cat 2.txt | wc
+ls | wc
+setenv var 5
+env
+unsetv var
+emacs
+jobs
+fg 1
+jobs
+bg 1
+jobs
+overkill
+ls
